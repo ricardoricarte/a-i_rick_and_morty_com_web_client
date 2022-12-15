@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.6</version>
+		<version>2.7.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.kamilacode</groupId>
+	<groupId>com.ricartedev</groupId>
 	<artifactId>webclient-rick-and-morty-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>webclient-rick-and-morty-api</name>
-	<description>projeto em webflux que consome a API do rick e morty com o webclient</description>
+	<description>Projeto em webflux que consome a API do rick e morty com o webclient</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
