@@ -10,7 +10,7 @@
   
   <br>
   <br>
-  <p>Consumo da Api Rick and Morty SprinWebFlux</p>
+  <p>Consumo da Api Rick and Morty Spring WebFlux/WebClient</p>
   <br>
 
 </div>
